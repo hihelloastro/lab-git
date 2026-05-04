@@ -1,0 +1,16 @@
+# .gitignore 파일 예시
+
+# Python 캐시 파일
+.pytest_cache/
+__pycache__/
+*.pyc
+
+# 환경 변수 파일 (보안 민감)
+.env
+
+# IDE 설정 파일
+.vscode/
+.idea/
+
+# 의존성 폴더
+node_modules/
